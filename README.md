@@ -1,5 +1,5 @@
 # decision_tree
-Jupyter Notebook of a custom decision tree algorithm.
+Jupyter Notebook of a custom decision tree algorithm using the Titanic Dataset.
 
 CustomGraph - PNG of visualization of the decision tree made from the custom algorithm.
 
